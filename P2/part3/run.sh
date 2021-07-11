@@ -1,0 +1,1 @@
+python main.py --master_ip 10.10.1.1  --num_nodes 4 --rank []
